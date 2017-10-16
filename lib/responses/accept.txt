@@ -1,0 +1,5 @@
+"CODE" "ACCEPT"
+"RA" "<%= ra %>"
+"SECONDS" "<%= seconds %>"
+"DOWNLOAD" "<%= download %>"
+"UPLOAD" "<%= upload %>"
